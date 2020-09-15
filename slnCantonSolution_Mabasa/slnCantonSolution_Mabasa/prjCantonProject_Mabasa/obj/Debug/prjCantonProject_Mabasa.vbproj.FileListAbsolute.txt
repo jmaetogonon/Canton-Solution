@@ -1,0 +1,12 @@
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\bin\Debug\prjCantonProject_Mabasa.exe.config
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\bin\Debug\prjCantonProject_Mabasa.exe
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\bin\Debug\prjCantonProject_Mabasa.pdb
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\bin\Debug\prjCantonProject_Mabasa.xml
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.vbprojAssemblyReference.cache
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.frmMain.resources
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.Resources.resources
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.vbproj.GenerateResource.cache
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.vbproj.CoreCompileInputs.cache
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.exe
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.xml
+C:\Users\karel\source\repos\slnCantonSolution_Mabasa\prjCantonProject_Mabasa\obj\Debug\prjCantonProject_Mabasa.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjCantonProject_Mabasa", "prjCantonProject_Mabasa\prjCantonProject_Mabasa.vbproj", "{5DAD2029-70AA-4653-A627-C2618EBE0328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAD2029-70AA-4653-A627-C2618EBE0328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAD2029-70AA-4653-A627-C2618EBE0328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAD2029-70AA-4653-A627-C2618EBE0328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAD2029-70AA-4653-A627-C2618EBE0328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02C7441-8FAE-4569-964A-13DB15F55BE0}
+	EndGlobalSection
+EndGlobal
